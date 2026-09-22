@@ -14,7 +14,7 @@ author: Mariana Ozaeta
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Working on my masters in program evaluation and data analytics from the watts college of public service, currently learning my way around Github"
+  About Me: "AboutMe"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
